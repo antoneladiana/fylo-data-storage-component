@@ -39,7 +39,7 @@ body {
 main {
     width: 80%;
     max-width: 900px;
-    margin: 150px auto 50px;
+    margin: 100px auto 50px;
     display: flex;
     column-gap: 30px;
     row-gap: 20px;
